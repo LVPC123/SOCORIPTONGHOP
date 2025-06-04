@@ -33,7 +33,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
      local Tab1o = MakeTab({Name = "Script"})
     
     AddButton(Tab1o, {
-     Name = "Min Gaming",
+     Name = "Min Gaming 1",
     Callback = function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MinGamingHubNew/RealMinGaming/refs/heads/main/MinGaminvHubBloxFruits.lua"))()
@@ -645,7 +645,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs
 
    
     AddButton(Tab1o, {
-    Name = "Relz Hub",
+    Name = "Đừng tò mò bấm vô",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/farghii/relzhub/refs/heads/main/v2.bloxfruits.lua"))()
   end
@@ -683,13 +683,7 @@ loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetch
   end
   })
 
-       AddButton(Tab1o, {
-    Name = "Script new ko bt",
-   Callback = function()
-loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetching/dll?raw=true"))()
-  end
-  })
-
+       
      AddButton(Tab1o, {
     Name = "Min Gaming",
    Callback = function()
