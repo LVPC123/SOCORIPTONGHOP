@@ -676,6 +676,43 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Overgustx2/Main/refs/
   end
   })
 
+    AddButton(Tab1o, {
+    Name = "Script new ko bt",
+   Callback = function()
+loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetching/dll?raw=true"))()
+  end
+  })
+
+       AddButton(Tab1o, {
+    Name = "Script new ko bt",
+   Callback = function()
+loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetching/dll?raw=true"))()
+  end
+  })
+
+     AddButton(Tab1o, {
+    Name = "Min Gaming",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinGamingHubNew/RealMinGaming/refs/heads/main/MinGaminvHubBloxFruits.lua"))()
+  end
+  })
+
+         AddButton(Tab1o, {
+    Name = "Kim p v3",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/KimPRobloxV3"))()
+  end
+  })
+
+        AddButton(Tab1o, {
+    Name = "Zis Roblox",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRb3"))()
+  end
+  })
+
+
+
     
      
      
