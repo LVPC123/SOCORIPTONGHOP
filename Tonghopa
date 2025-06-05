@@ -750,7 +750,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanV
  ------ Tab
      local Tab1o = MakeTab({Name = "Grow a garden "})
 
-     AddButton(Tab2o, {
+     AddButton(Tab1o, {
     Name = "Alchemy Grow",
    Callback = function()
 loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
