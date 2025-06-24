@@ -51,7 +51,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/h
   })
 
     AddButton(Tab1o, {
-     Name = "W-azure",
+     Name = "W-azure down",
     Callback = function()
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
@@ -713,7 +713,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/
   })
 
     AddButton(Tab1o, {
-    Name = "Speed Hub",
+    Name = "Speed Hub down ",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
   end
